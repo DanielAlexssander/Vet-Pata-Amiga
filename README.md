@@ -25,3 +25,21 @@ yarn dev
 ```
 
 Open <http://localhost:3000> with your favorite browser to see your project.
+
+
+### Deploy manually
+
+You can see the results locally in production mode with:
+
+  ```
+yarn build
+yarn start
+```
+
+The generated HTML and CSS files are minified (built-in feature from Next js). It will also removed unused CSS from [Tailwind CSS](https://tailwindcss.com).
+
+You can create an optimised production build with:
+
+```
+yarn build-prod
+```
