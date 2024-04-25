@@ -1,0 +1,126 @@
+{
+	"company": {
+		"name": "Vet Pata Amiga",
+		"logo": "/assets/images/logo.png"
+	},
+	"navigation": [
+		{
+			"name": "Sobre nós",
+			"href": "about"
+		},
+		{
+			"name": "Contatos",
+			"href": "contact"
+		},
+
+		{
+			"name": "Preços",
+			"href": "pricing"
+		}
+	],
+	"mainContent": {
+		"title": "Veterinária",
+		"subtitle": "Pata Amiga",
+		"description": "Na Veterinária Pata Amiga, acreditamos que cada animal merece cuidados de qualidade e carinho excepcionais. Somos uma clínica veterinária dedicada a promover a saúde, o bem-estar e a felicidade dos seus melhores amigos de quatro patas.",
+		"img": "https://img.freepik.com/fotos-gratis/labrador-mentir-grama-verde-com-bola_23-2148045803.jpg?t=st=1713988486~exp=1713992086~hmac=ec9f629d646a93df3f98639fea801393eff6b797a78d780b1e0d9208c24136ac&w=1380",
+		"primaryAction": {
+			"text": "Sobre nós",
+			"href": "about"
+		},
+		"secondaryAction": {
+			"text": "Nos Contate",
+			"href": "contact"
+		}
+	},
+	"about": {
+		"title": "Veterinária Pata Amiga",
+		"items": [
+			{
+				"title": "Cuidaremos do seu pet com muito amor!",
+				"description": "Com uma equipe apaixonada e altamente qualificada de médicos veterinários e técnicos especializados, estamos comprometidos em fornecer serviços abrangentes e personalizados para atender às necessidades individuais de cada animal. Seja para uma simples consulta de rotina, tratamento médico ou cirúrgico, estamos aqui para oferecer cuidados compassivos e eficazes.",
+				"img": "https://img.freepik.com/fotos-gratis/retrato-de-um-cao-com-atadura-ligado-tabela_23-2147928579.jpg?t=st=1713996814~exp=1714000414~hmac=1cd01dc34dae9b380b797b6cf36cbaa7337409fb55e4662c6331b6a8663c1669&w=740"
+			},
+			{
+				"title": "Infraestrutura de Ponta para Cuidados Veterinários de Excelência",
+				"description": "Na Vet Pata Amiga, investimos pesadamente em uma infraestrutura moderna e de ponta para garantir que possamos oferecer os mais altos padrões de cuidados veterinários. Nossa clínica é equipada com instalações de última geração, desde salas de consulta e salas de cirurgia até áreas de diagnóstico e internação.",
+				"img": "https://img.freepik.com/fotos-gratis/feche-o-medico-veterinario-cuidando-do-animal-de-estimacao_23-2149267890.jpg?t=st=1713997569~exp=1714001169~hmac=58ff1a86f3ef4cb4a0584e579e8c6b1edc520ff41ca9780798a32aa1e9e9c552&w=740"
+			}
+		],
+		"paw": "/assets/images/paw.svg"
+	},
+	"contact": {
+		"title": "Contatos",
+		"subtitle": "Todo os nossos contatos",
+		"description": "Nós da Veterinária Pata Amiga estamos aqui para ajudar você e seu animal de estimação. Se você tiver alguma dúvida, preocupação ou desejar agendar uma consulta, entre em contato conosco. Nossa equipe dedicada de médicos veterinários e técnicos está pronta para fornecer cuidados excepcionais e orientação para o bem-estar do seu amigo peludo.",
+		"items": [
+			{
+				"name": "Telefone / WhatsApp",
+				"description": "(21) 9xxxx-xxxx",
+				"icon": "/assets/images/whatsapp.svg"
+			},
+			{
+				"name": "Email",
+				"description": "vetpataamiga@gmail.com.br",
+				"icon": "/assets/images/email.svg"
+			},
+			{
+				"name": "Instagram",
+				"description": "@VetPataAmiga",
+				"icon": "/assets/images/instagram.svg"
+			}
+		]
+	},
+	"pricing": {
+		"title": "Preços",
+		"items": [
+			{
+				"name": "Gratis",
+				"price": "R$0",
+				"priceDetails": "Na primeira consulta",
+				"features": ["Check-up geral", "Biscoito gratis na recepção"]
+			},
+			{
+				"name": "Consulta",
+				"price": "R$30",
+				"priceDetails": "Por consulta",
+
+				"features": [
+					"Check-up geral",
+					"Biscoito gratis na recepção",
+					"Demonstração de Técnicas de Cuidado em Casa",
+					"Consulta Comportamental",
+					"Plano de Prevenção de Parasitas"
+				]
+			},
+			{
+				"name": "Exame",
+				"price": "R$50",
+				"priceDetails": "Por exame",
+				"features": [
+					"Tecnologia Avançada",
+					"Averiguamos todos os possíveis problemas"
+				]
+			}
+		]
+	},
+	"footer": {
+		"sections": [
+			{
+				"name": "Início",
+				"href": "header"
+			},
+			{
+				"name": "Preços",
+				"href": "pricing"
+			},
+			{
+				"name": "Contatos",
+				"href": "contact"
+			},
+			{
+				"name": "Sobre nós",
+				"href": "about"
+			}
+		]
+	}
+}
