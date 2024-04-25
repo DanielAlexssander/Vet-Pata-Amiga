@@ -22,7 +22,7 @@
 		"title": "Veterinária",
 		"subtitle": "Pata Amiga",
 		"description": "Na Veterinária Pata Amiga, acreditamos que cada animal merece cuidados de qualidade e carinho excepcionais. Somos uma clínica veterinária dedicada a promover a saúde, o bem-estar e a felicidade dos seus melhores amigos de quatro patas.",
-		"img": "/assets/images/banner.png",
+		"img": "/assets/images/banner.jpg",
 		"primaryAction": {
 			"text": "Sobre nós",
 			"href": "about"
