@@ -10,7 +10,7 @@ Venha nos visitar e descubra por que somos conhecidos como Vet Pata Amiga - porq
 
 Junte-se a nós enquanto continuamos a fazer a diferença na vida dos animais, uma pata de cada vez.
 
-Created by: [React](https://react.dev), [Next.js]([https://nextjs.org), [TypeScript](https://www.typescriptlang.org), [Tailwind CSS](https://tailwindcss.com)
+Created by: [React](https://react.dev), [Next.js](https://nextjs.org), [TypeScript](https://www.typescriptlang.org), [Tailwind CSS](https://tailwindcss.com)
 
 ### 1. Clone repo
 
