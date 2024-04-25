@@ -10,7 +10,7 @@ Venha nos visitar e descubra por que somos conhecidos como Vet Pata Amiga - porq
 
 Junte-se a nós enquanto continuamos a fazer a diferença na vida dos animais, uma pata de cada vez.
 
-#### 1. Clone repo
+### 1. Clone repo
 
 ```
 git clone https://github.com/issaafalkattan/react-landing-page-template-2021.git
@@ -27,7 +27,7 @@ yarn dev
 Open <http://localhost:3000> with your favorite browser to see your project.
 
 
-### Deploy manually
+### 2 - Deploy manually
 
 You can see the results locally in production mode with:
 
