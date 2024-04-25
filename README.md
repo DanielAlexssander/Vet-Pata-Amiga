@@ -13,9 +13,9 @@ Junte-se a nós enquanto continuamos a fazer a diferença na vida dos animais, u
 ### 1. Clone repo
 
 ```
-git clone https://github.com/issaafalkattan/react-landing-page-template-2021.git
-cd react-landing-page-template-2021
-yarn
+git clone https://github.com/DanielAlexssander/Vet-Pata-Amiga.git
+cd Vet-Pata-Amiga
+yarn install
 ```
 
 Then, you can run locally in development mode with live reload:
